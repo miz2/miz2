@@ -52,8 +52,4 @@ I'm consistently sharpening my skills in Data Structures and Algorithms using **
 
 ---
 
-## 🎯 Fun Fact
-I was the **highest run scorer and wicket taker** for my team in a state cricket tournament! 🏏
-
-Feel free to explore my repositories and reach out if you'd like to collaborate or chat about tech. Let's build something amazing together! 🚀
 
